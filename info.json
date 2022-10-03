@@ -1,0 +1,22 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "img": "images/portfolio-1.jpg",
+      "title": "First Project Here",
+      "prag" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis atque similique minus?"
+    },
+    {
+      "id": 2,
+      "img": "images/portfolio-2.jpg",
+      "title": "Second Project Here",
+      "prag" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis atque similique minus?"
+    },
+    {
+      "id": 3,
+      "img": "images/portfolio-3.jpg",
+      "title": "Third Project Here",
+      "prag" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis atque similique minus?"
+    }
+  ]
+}
